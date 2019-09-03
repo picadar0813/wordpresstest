@@ -43,7 +43,8 @@ class IXR_Client
                 $this->path .= '?' . $bits['query'];
             }
         } else {
-            $this->server = $server;
+            $this->server = $server;dfkadjklfajdlfjla
+		   kdjfdfajlkfajdlfja
             $this->path = $path;
             $this->port = $port;
         }
